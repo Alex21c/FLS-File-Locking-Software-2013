@@ -1,6 +1,5 @@
 # FLS-File-Locking-Software-2013
-Linked In Profile:\
-https://www.linkedin.com/in/abhishek-kumar-bb094427a/
+https://linktr.ee/alex21c
 
 Project Title :  “File Locking Software”
 
